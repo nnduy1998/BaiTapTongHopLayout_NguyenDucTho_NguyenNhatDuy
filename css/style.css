@@ -46,9 +46,6 @@ nav .navbar-collapse {
 /* End Navbar  */
 
 /* Start Film Trailer */
-#film-trailer {
-  padding-top: 60px;
-}
 #film-trailer img.left-arrow {
   height: 6rem;
   margin-left: -6rem;
